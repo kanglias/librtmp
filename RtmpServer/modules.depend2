@@ -1,0 +1,4 @@
+# дё©Ирюю╣нд╪Ч
+MODULES_DEPEND += $(TOPDIR)/pubEx/librtsp
+MODULES_DEPEND += $(TOPDIR)/pub/mdpub/libhttp/pdg-make
+

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RtmpServer", "RtmpServer\RtmpServer.vcproj", "{4B3422EB-4C29-45CF-BA3F-3469D08AC094}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TestRtmpServer", "TestRtmpServer\TestRtmpServer.vcproj", "{74BC8DBA-E794-42FD-BA2E-B0CE753C85D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B3422EB-4C29-45CF-BA3F-3469D08AC094}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4B3422EB-4C29-45CF-BA3F-3469D08AC094}.Debug|Win32.Build.0 = Debug|Win32
+		{4B3422EB-4C29-45CF-BA3F-3469D08AC094}.Release|Win32.ActiveCfg = Release|Win32
+		{4B3422EB-4C29-45CF-BA3F-3469D08AC094}.Release|Win32.Build.0 = Release|Win32
+		{74BC8DBA-E794-42FD-BA2E-B0CE753C85D5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{74BC8DBA-E794-42FD-BA2E-B0CE753C85D5}.Debug|Win32.Build.0 = Debug|Win32
+		{74BC8DBA-E794-42FD-BA2E-B0CE753C85D5}.Release|Win32.ActiveCfg = Release|Win32
+		{74BC8DBA-E794-42FD-BA2E-B0CE753C85D5}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
